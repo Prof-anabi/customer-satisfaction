@@ -1,0 +1,9 @@
+feature,importance
+delivery_days,0.2231172269220294
+delivery_delay_days,0.2207650111628644
+total_payment_value,0.15694839009618233
+total_freight_value,0.1494456487761639
+total_price,0.1419574099423922
+max_payment_installments,0.04465723305952684
+is_late,0.03812247459833782
+number_of_items,0.024986605442503158
