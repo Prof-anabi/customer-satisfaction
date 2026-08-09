@@ -1,26 +1,9 @@
-catboost==1.0.4
-joblib==1.1.0
-lightgbm==3.3.2
-numpy==1.22.3
-optuna==0.7.0
-pandas==1.4.0
-streamlit==1.10.0
-scikit-learn==1.0.2
-xgboost==1.6.2
-markupsafe==2.0.1
-jinja2==3.0.3  
-zenml==0.1.0
-
-
-
-zen initialization
-zenml init
-zenml up
-
-zenml integration install mlflow
-zenml integration install scikit-learn  
-
-zenml stack register my_stack -o local -a mlflow -a scikit-learn
-zenml stack set my_stack
-
-zenml pipeline run -p pipeline.py
+mlflow==3.15.1
+numpy==2.5.1
+pandas==2.3.3
+psutil==7.2.2
+rich==15.0.0
+scikit-learn==1.9.0
+scipy==1.18.0
+skops==0.14.0
+zenml==0.96.3
